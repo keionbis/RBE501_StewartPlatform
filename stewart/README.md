@@ -19,4 +19,7 @@ To view the IMU and Joint forces,
   
   select the gazebo.mgsd.IMU or gazebo.msgs.WrenchStamoed messages respectively
 
-Note: THis requires ROS kinetic (ubuntu 16.04) to run correctly
+
+
+
+## Note: THis requires ROS kinetic (ubuntu 16.04) to run correctly
