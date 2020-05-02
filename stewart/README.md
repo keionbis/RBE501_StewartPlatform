@@ -17,7 +17,7 @@ To view the IMU and Joint forces,
 
   In Gazebo press Ctrl+T 
   
-  select the gazebo.mgsd.IMU or gazebo.msgs.WrenchStamoed messages respectively
+  select the gazebo.mgsd.IMU or gazebo.msgs.WrenchStamped messages respectively
 
 
 
