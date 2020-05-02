@@ -13,7 +13,10 @@ Now, to launch the package:
 roslaunch stewart stewart.launch
 ```
 
-To view the IMU and Joint forces, 
-  In Gazebo press ctrl+T and select the gazebo.mgsd.IMU or gazebo.msgs.WrenchStamoed messages respectively
+To view the IMU and Joint forces,
+
+  In Gazebo press Ctrl+T 
+  
+  select the gazebo.mgsd.IMU or gazebo.msgs.WrenchStamoed messages respectively
 
 Note: THis requires ROS kinetic (ubuntu 16.04) to run correctly
