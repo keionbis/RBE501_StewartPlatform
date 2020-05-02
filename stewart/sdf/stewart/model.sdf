@@ -16,6 +16,9 @@
 				<velocity> 1 </velocity>
 			</limit>
 		</axis>
+		<sensor name="Prismatic1" type="force_torque">
+          		<update_rate>30</update_rate>
+        	</sensor>
 	</joint>
 
 
@@ -31,6 +34,9 @@
 				<velocity> 1 </velocity>
 			</limit>
 		</axis>
+		<sensor name="Prismatic3" type="force_torque">
+		  <update_rate>30</update_rate>
+		</sensor>
 	</joint>
 
 
@@ -46,6 +52,9 @@
 				<velocity> 1 </velocity>
 			</limit>
 		</axis>
+		<sensor name="Prismatic5" type="force_torque">
+		  <update_rate>30</update_rate>
+		</sensor>
 	</joint>
 
 
@@ -321,6 +330,11 @@
 				</cylinder>
 			</geometry>
 		</collision>
+		<sensor name="imu_sensor" type="imu">
+		    <pose>0 0 0 0 0 0</pose>
+		    <always_on>1</always_on>
+		    <update_rate>1000.0</update_rate>
+		</sensor>
 	</link>
 
 	<link name = "bottom_ball1_link" >
