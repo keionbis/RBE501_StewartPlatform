@@ -296,14 +296,14 @@
 	<link name = "platform_link" >
 		<pose> 0 0 0.20500000000000002 0 0 0 </pose>
 		<inertial>
-			<mass> 1.0 </mass>
+			<mass> 0.108 </mass>
 			<inertia>
-				<ixx> 0.0014115833333333333 </ixx>
-				<ixy> 0.0 </ixy>
-				<ixz> 0.0</ixz>
-				<iyy> 0.0014115833333333333 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0028125 </izz>
+				<ixx> 4.434 </ixx>
+				<ixy> -0.000052 </ixy>
+				<ixz> -0.000011</ixz>
+				<iyy> 4.434 </iyy>
+				<iyz> 0.000021 </iyz>
+				<izz> 8.754 </izz>
 			</inertia>
 		</inertial>
 
@@ -527,14 +527,14 @@
 	<link name = "piston1_cylinder_link" >
 		<pose> -0.008085221650768307 0.05898838182945814 0.10500000000000001 0 0 1.571 </pose>
 		<inertial>
-			<mass> 0.1 </mass>
+			<mass> 0.08087 </mass>
 			<inertia>
-				<ixx> 0.0 </ixx>
+				<ixx> 24.70 </ixx>
 				<ixy> 0.0 </ixy>
-				<ixz> 0.0 </ixz>
-				<iyy> 0.0 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0 </izz>
+				<ixz> 0.000006 </ixz>
+				<iyy> 24.70 </iyy>
+				<iyz> 3.056 </iyz>
+				<izz> 4.013 </izz>
 			</inertia>
 		</inertial>
 
@@ -566,14 +566,14 @@
 	<link name = "piston3_cylinder_link" >
 		<pose> 0.05511443246494093 -0.022525526277258547 0.10500000000000001 0 0 0 </pose>
 		<inertial>
-			<mass> 0.1 </mass>
+			<mass> 0.08087 </mass>
 			<inertia>
-				<ixx> 0.0 </ixx>
+				<ixx> 24.70 </ixx>
 				<ixy> 0.0 </ixy>
-				<ixz> 0.0 </ixz>
-				<iyy> 0.0 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0 </izz>
+				<ixz> 0.000006 </ixz>
+				<iyy> 24.70 </iyy>
+				<iyz> 3.056 </iyz>
+				<izz> 4.013 </izz>
 			</inertia>
 		</inertial>
 
@@ -606,14 +606,14 @@
 	<link name = "piston5_cylinder_link" >
 		<pose> -0.04712336056605641 -0.03639215422259912 0.10500000000000001 0 0 -1.571 </pose>
 		<inertial>
-			<mass> 0.1 </mass>
+			<mass> 0.08087 </mass>
 			<inertia>
-				<ixx> 0.0 </ixx>
+				<ixx> 24.70 </ixx>
 				<ixy> 0.0 </ixy>
-				<ixz> 0.0 </ixz>
-				<iyy> 0.0 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0 </izz>
+				<ixz> 0.000006 </ixz>
+				<iyy> 24.70 </iyy>
+				<iyz> 3.056 </iyz>
+				<izz> 4.013 </izz>
 			</inertia>
 		</inertial>
 
@@ -645,14 +645,14 @@
 	<link name = "piston1_shaft_link" >
 		<pose> -0.008085221650768307 0.05898838182945814 0.10500000000000001 0 0 1.571 </pose>
 		<inertial>
-			<mass> 0.1 </mass>
+			<mass> 0.072361 </mass>
 			<inertia>
-				<ixx> 0.0 </ixx>
+				<ixx> 12.75 </ixx>
 				<ixy> 0.0 </ixy>
 				<ixz> 0.0 </ixz>
-				<iyy> 0.0 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0 </izz>
+				<iyy> 12.75 </iyy>
+				<iyz> -9.748 </iyz>
+				<izz> 0.731 </izz>
 			</inertia>
 		</inertial>
 
@@ -684,14 +684,14 @@
 	<link name = "piston3_shaft_link" >
 		<pose> 0.05511443246494093 -0.022525526277258547 0.10500000000000001 0 0 0 </pose>
 		<inertial>
-			<mass> 0.1 </mass>
+			<mass> 0.072361 </mass>
 			<inertia>
-				<ixx> 0.0 </ixx>
+				<ixx> 12.75 </ixx>
 				<ixy> 0.0 </ixy>
 				<ixz> 0.0 </ixz>
-				<iyy> 0.0 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0 </izz>
+				<iyy> 12.75 </iyy>
+				<iyz> -9.748 </iyz>
+				<izz> 0.731 </izz>
 			</inertia>
 		</inertial>
 
@@ -723,14 +723,14 @@
 	<link name = "piston5_shaft_link" >
 		<pose> -0.04712336056605641 -0.03639215422259912 0.10500000000000001 0 0 -1.571 </pose>
 		<inertial>
-			<mass> 0.1 </mass>
+			<mass> 0.072361 </mass>
 			<inertia>
-				<ixx> 0.0 </ixx>
+				<ixx> 12.75 </ixx>
 				<ixy> 0.0 </ixy>
 				<ixz> 0.0 </ixz>
-				<iyy> 0.0 </iyy>
-				<iyz> 0.0 </iyz>
-				<izz> 0.0 </izz>
+				<iyy> 12.75 </iyy>
+				<iyz> -9.748 </iyz>
+				<izz> 0.731 </izz>
 			</inertia>
 		</inertial>
 
