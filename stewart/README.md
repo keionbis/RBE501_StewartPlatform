@@ -22,4 +22,4 @@ To view the IMU and Joint forces,
 
 
 
-## Note: THis requires ROS kinetic (ubuntu 16.04) to run correctly
+## Note: This requires ROS kinetic (ubuntu 16.04) to run correctly
